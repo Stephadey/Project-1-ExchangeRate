@@ -9,7 +9,7 @@ This guide will walk you through setting up and running an analysis on currency 
     - Create a file named `.env` in the project directory.
     - Add the following line to the file, replacing `<YOUR_API_KEY>` with your API key obtained from the Exchange Rate API website:
       ```
-      API_KEY=<YOUR_API_KEY>
+      api_key=<YOUR_API_KEY>
       ```
 
 ## Upgrade to "Pro" Plan
@@ -31,7 +31,7 @@ pip install -r requirements.txt
    - Create a file named `.env` in the project directory.
    - Open the `.env` file and set your API key as follows:
      ```dotenv
-     API_KEY=your_api_key_here
+     api_key=your_api_key_here
      ```
 
 3. **Run the code:**
