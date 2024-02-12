@@ -84,6 +84,9 @@ pip install -r requirements.txt
 3. **Run the code:**
    - Execute the code to fetch exchange rate data and perform the analysis.
 
+### Conclusion
+Based on our analysis, we conclude that while the AUD experienced declines during the Financial Crisis, it exhibited resilience, bouncing back and regaining strength against major currencies. Our data suggests that the AUD tends to depreciate during economic challenges but recovers over time, as evidenced by its negative trend in 2008 and subsequent positive performance. This conclusion is further supported by the trend-time analysis conducted for the calendar year 2023. However, additional research, especially regarding fundamental factors, is necessary for a more comprehensive understanding of these trends.
+
 
 ## References
 - ExchangeRate-API Documentation. Retrieved from [https://www.exchangerate-api.com/docs/overview](https://www.exchangerate-api.com/docs/overview)
