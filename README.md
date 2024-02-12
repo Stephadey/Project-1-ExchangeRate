@@ -49,6 +49,9 @@ The goal of this project is twofold: it not only provides a reliable resource fo
 ![enter image description here](https://github.com/Stephadey/Images/blob/main/Image-6.png?raw=true)
 -   Overall, AUD is stronger than 85% of the world's currencies.
 
+## Conclusion
+Based on our analysis, we conclude that while the AUD experienced declines during the Financial Crisis, it exhibited resilience, bouncing back and regaining strength against major currencies. Our data suggests that the AUD tends to depreciate during economic challenges but recovers over time, as evidenced by its negative trend in 2008 and subsequent positive performance. This conclusion is further supported by the trend-time analysis conducted for the calendar year 2023. However, additional research, especially regarding fundamental factors, is necessary for a more comprehensive understanding of these trends.
+
 ## How to execute the code
 This guide will walk you through setting up and running an analysis on currency exchange rate data using the Exchange Rate API. To access the API and run the code, you'll need to follow the steps outlined below.
 
@@ -83,9 +86,6 @@ pip install -r requirements.txt
      api_key=your_api_key_here
 3. **Run the code:**
    - Execute the code to fetch exchange rate data and perform the analysis.
-
-### Conclusion
-Based on our analysis, we conclude that while the AUD experienced declines during the Financial Crisis, it exhibited resilience, bouncing back and regaining strength against major currencies. Our data suggests that the AUD tends to depreciate during economic challenges but recovers over time, as evidenced by its negative trend in 2008 and subsequent positive performance. This conclusion is further supported by the trend-time analysis conducted for the calendar year 2023. However, additional research, especially regarding fundamental factors, is necessary for a more comprehensive understanding of these trends.
 
 
 ## References
